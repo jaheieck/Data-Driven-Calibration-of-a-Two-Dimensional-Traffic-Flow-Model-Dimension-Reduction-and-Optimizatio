@@ -1,5 +1,5 @@
-# Data-Driven-Calibration-of-a-2D-Traffic-Flow-Model-Identifiability-and-Dimension-Reduction
-This contains all material for the publication: "Data-Driven Calibration of a Two-Dimensional Traffic Flow Model: Identifiability, Dimension Reduction, and Consequences for Optimization"
+# Data-Driven Calibration of a Two-Dimensional Traffic Flow Model: Dimension Reduction and Optimization Strategies
+This contains all material for the publication: "Data-Driven Calibration of a Two-Dimensional Traffic Flow Model: Dimension Reduction and Optimization Strategies"
 
 
 The 3 folders contain the following data for each of the datasets (On-Off-ramp dataset, highD dataset, Heidelberg sensor dataset):
