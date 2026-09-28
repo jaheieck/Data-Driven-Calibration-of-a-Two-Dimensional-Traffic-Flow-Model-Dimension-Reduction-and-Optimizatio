@@ -4,7 +4,6 @@ This contains all material for the publication: "Data-Driven Calibration of a Tw
 
 The 3 folders contain the following data for each of the datasets (On-Off-ramp dataset, highD dataset, Heidelberg sensor dataset):
 
-- folder `data`: contains all necessary files to load the datasets except for the highD dataset (this dataset is not public).
 - folder `images`: contains all used images
 - folder `optimzation`: contains all necessary files to apply the different optimization methods
 - link `Website`: opens a websites, which describes the data
